@@ -1,4 +1,7 @@
+package com.knara.dao;
 import java.util.ArrayList;
+
+import com.knara.model.Customer;
 
 public class PrintCustomer {
 	public void printCustomerData(ArrayList<Customer> custList, int index) {

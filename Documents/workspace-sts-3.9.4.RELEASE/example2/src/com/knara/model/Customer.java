@@ -1,3 +1,5 @@
+package com.knara.model;
+
 public class Customer {
 	private String name;
 	private char gender;

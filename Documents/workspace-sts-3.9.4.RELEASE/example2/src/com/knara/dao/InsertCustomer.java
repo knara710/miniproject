@@ -1,5 +1,8 @@
+package com.knara.dao;
 import java.util.ArrayList;
 import java.util.Scanner;
+
+import com.knara.model.Customer;
 
 public class InsertCustomer {
 	
